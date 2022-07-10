@@ -1,1 +1,2 @@
-# Restaurant-Queue-Embedded-System
+# embedded_system
+embedded_system with django 
